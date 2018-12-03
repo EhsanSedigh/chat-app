@@ -1,0 +1,15 @@
+{
+  "name": "face2face",
+  "version": "1.0.0",
+  "description": "Alpha Version",
+  "main": "",
+  "scripts": {
+    "start":"nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehsan Sedigh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
