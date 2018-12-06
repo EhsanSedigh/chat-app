@@ -4,12 +4,13 @@
   "description": "Alpha Version",
   "main": "",
   "scripts": {
-    "start":"nodemon server/server.js",
+    "start": "nodemon server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ehsan Sedigh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
   }
 }
